@@ -65,6 +65,7 @@ Sl .no	Apparatus	Range	Type	Quantity
 
 <img width="958" height="861" alt="image" src="https://github.com/user-attachments/assets/6c889ce7-d3e6-4c0a-9759-07a889d0a156" />
 
+<img width="882" height="782" alt="image" src="https://github.com/user-attachments/assets/a7c0888b-56cb-4694-81d1-00d6432a30e6" />
 
 
 
